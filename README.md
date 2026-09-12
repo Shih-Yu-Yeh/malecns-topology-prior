@@ -194,6 +194,3 @@ malecns-topology-prior/
 
 MIT. Code and protocol are open. MaleCNS data is under its own upstream license (Janelia FlyEM).
 
-## Contact
-
-[Your Twitter / GitHub]
