@@ -1,0 +1,29 @@
+{
+  "experiment": "MaleCNS frozen drifting grating v2",
+  "n_t4": 6861,
+  "n_t5": 6720,
+  "directions": [
+    0,
+    45,
+    90,
+    135,
+    180,
+    225,
+    270,
+    315
+  ],
+  "duration_per_direction_ms": 2000,
+  "t4_dsi_median": 0.0,
+  "t4_dsi_mean": 0.0,
+  "t4_dsi_gt_0_3_pct": 0.0,
+  "t4_dsi_gt_0_6_pct": 0.0,
+  "t4_mean_rate_hz": 0.0,
+  "t5_dsi_median": 0.0,
+  "t5_dsi_mean": 0.0,
+  "t5_dsi_gt_0_3_pct": 0.0,
+  "t5_dsi_gt_0_6_pct": 0.0,
+  "t5_mean_rate_hz": 0.0,
+  "biological_reference": "Maisak et al. 2013, Nature, DSI 0.6-0.8",
+  "t4_in_biological_range": false,
+  "t5_in_biological_range": false
+}

@@ -1,0 +1,30 @@
+# Data files (download separately — too large for git)
+data/*.feather
+data/*.npz
+data/*.npy
+data/normalized/
+data/cache/
+data/*.json
+data/connectome-import.json
+
+# Compiled binaries
+data/cache/
+**/*.so
+**/*.dylib
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
